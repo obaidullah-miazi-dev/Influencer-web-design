@@ -25,3 +25,10 @@ body{
 .footer-bg{
     background-color: #0A0826;
 }
+
+.bg-circle {
+  background-image: url('images/Circle-design.svg');
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+}
