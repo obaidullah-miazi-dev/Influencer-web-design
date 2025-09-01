@@ -50,4 +50,8 @@ This project is created as part of my journey to become a Full-Stack Web Develop
 📬 Contact
 If you want to give feedback or connect:
 
-~GitHub: @obaidullah-miazi-dev
+GitHub:(https://github.com/obaidullah-miazi-dev)  
+
+LinkedIn: (http://www.linkedin.com/in/obaidullah-miazi)  
+
+Email: (obaidullahmiazi.dev@gmail.com)
